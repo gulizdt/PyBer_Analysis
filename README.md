@@ -14,4 +14,4 @@ Total weekly fares are highest for urban territories and lowest for rural territ
 
 ## Summary
 
-![Pyber Graph](pyber graph.png)
+![Pyber Graph](gulizdt/pyber_analysis/pyber graph.png)
