@@ -9,7 +9,8 @@ This report summarizes data on ride sharing by city type per V.Isulaize request.
 
 
 
-Total weekly fares are highest for urban territories and lowest for rural territories almost during all period of observation. However, fares for urban and suburban territories fall to level of fares for rural territories in last weeks of April.
+TTotal weekly fares are highest for urban territories and lowest for rural territories almost during all period of observation. Fares for all territories seem to go up towards the end of February and then take a dip in the beginning of March.
+.
 
 
 ## Summary
